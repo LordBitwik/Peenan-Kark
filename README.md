@@ -11,7 +11,7 @@ I will come to your house and threaten your family. This is not a question. Cont
 
 ### FAQ
 <details>
-<summary>How can I join?</summary>  
-  
-  Membership to the Peenan Kark Fan club is highly sought after and very exclusive. As such, membeship starts at $4000 per month.</summary>
+<summary>How can I join?</summary>
+  <br>
+Membership to the Peenan Kark Fan club is highly sought after and very exclusive. As such, membeship starts at $4000 per month.
 </details>
