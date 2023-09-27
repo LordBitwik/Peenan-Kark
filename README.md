@@ -22,4 +22,5 @@ Peenan Kark is an important man and cannot waste time on puny mortals such as yo
 Membership to the Peenan Kark Fan club is highly sought after and very exclusive. As such, membeship starts at $4000 per month.
 </details>
 
-![makesweet-1pc5e5](https://github.com/LordBitwik/Peenan-Kark/assets/79286455/36edea29-6b77-4c48-9ff2-98913cac67db)
+
+![makesweet-enywsz](https://github.com/LordBitwik/Peenan-Kark/assets/79286455/05bb3356-8551-49ba-a9b9-4e8546e475bc)
