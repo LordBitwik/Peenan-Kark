@@ -6,6 +6,9 @@ Welcome to the official Peenan Kark fan club website. Here you can be a fan of P
 ## About Peenan Kark
 Peenan Kark is a legendary being known to many as a god. He is a 1 in a gazillion billion being. Peenan Kark is a true inspiration to many. Known for his outstanding contributions to the world, he has captured the hearts of fans worldwide. This fan club is dedicated to celebrating Peenan Kark's achievements and sharing his remarkable journey.
 
+## How do I meet Peenan Kark
+Peenan Kark is an important man and cannot waste time on puny mortals such as yourself. If you wish to follow his exploits you can find him [here](https://github.com/ClownDay)
+
 
 ### FAQ
 <details>
