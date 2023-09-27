@@ -6,12 +6,15 @@ Welcome to the official Peenan Kark fan club website. Here you can be a fan of P
 ## About Peenan Kark
 Peenan Kark is a legendary being known to many as a god. He is a 1 in a gazillion billion being. Peenan Kark is a true inspiration to many. Known for his outstanding contributions to the world, he has captured the hearts of fans worldwide. This fan club is dedicated to celebrating Peenan Kark's achievements and sharing his remarkable journey.
 
-## Why should you join?
-I will come to your house and threaten your family. This is not a question. Continue to the next line. 😠
 
 ### FAQ
 <details>
-<summary>How can I join?</summary>
+  <summary>Why should I join</summary>
+  I will come to your house and threaten your family. This is not a question. Continue to the next line.
   <br>
+  <img src="https://github.com/LordBitwik/Peenan-Kark/assets/79286455/e387bc09-7285-43ae-95d6-4d180bac3184" width="100" height="100">
+</details>
+<details>
+<summary>How can I join?</summary>
 Membership to the Peenan Kark Fan club is highly sought after and very exclusive. As such, membeship starts at $4000 per month.
 </details>
