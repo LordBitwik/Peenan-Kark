@@ -1,7 +1,7 @@
 # Welcome to the Ultimate Peenan Kark Fan Club 🌟
 Welcome to the official Peenan Kark fan club website. Here you can be a fan of Peenan Kark while being a fan by being a fan while simultaneously consequently subsequently being a fan.
 
-<img src="https://github.com/LordBitwik/Peenan-Kark/assets/79286455/3d9111f2-d11b-401e-bfab-12913eb9d3e7" width="400" height="560">
+<img src="https://github.com/LordBitwik/Peenan-Kark/assets/79286455/3d9111f2-d11b-401e-bfab-12913eb9d3e7" width="400" height="500">
 
 ## About Peenan Kark
 Peenan Kark is a legendary being known to many as a god. He is a 1 in a gazillion billion being. Peenan Kark is a true inspiration to many. Known for his outstanding contributions to the world, he has captured the hearts of fans worldwide. He is also [korean](https://en.wikipedia.org/wiki/Korea).This fan club is dedicated to celebrating Peenan Kark's achievements and sharing his remarkable journey.
